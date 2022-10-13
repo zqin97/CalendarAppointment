@@ -1,0 +1,98 @@
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.exe.config
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.exe
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.pdb
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.csprojResolveAssemblyReference.cache
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.MainForm.resources
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.csproj.GenerateResource.Cache
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.exe
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.pdb
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.AddAppointment.resources
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.AddRecurringAppointment.resources
+T:\Downloads\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.exe.config
+T:\Downloads\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.exe
+T:\Downloads\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.pdb
+T:\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.AddAppointment.resources
+T:\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.AddRecurringAppointment.resources
+T:\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.MainForm.resources
+T:\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.Properties.Resources.resources
+T:\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.csproj.GenerateResource.Cache
+T:\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.exe
+T:\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.pdb
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.exe.config
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.exe
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.pdb
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.csprojResolveAssemblyReference.cache
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.AddAppointment.resources
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.AddRecurringAppointment.resources
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.MainForm.resources
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.Properties.Resources.resources
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.csproj.GenerateResource.Cache
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.exe
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.pdb
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup\CalendarApplication\bin\Debug\CalendarApplication.exe.config
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup\CalendarApplication\obj\Debug\CalendarApplication.exe
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup\CalendarApplication\obj\Debug\CalendarApplication.pdb
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup\CalendarApplication\bin\Debug\CalendarApplication.exe
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup\CalendarApplication\bin\Debug\CalendarApplication.pdb
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup\CalendarApplication\obj\Debug\CalendarApplication.csprojResolveAssemblyReference.cache
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup\CalendarApplication\obj\Debug\Calendar.AddAppointment.resources
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup\CalendarApplication\obj\Debug\Calendar.AddRecurringAppointment.resources
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup\CalendarApplication\obj\Debug\Calendar.MainForm.resources
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup\CalendarApplication\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup\CalendarApplication\obj\Debug\CalendarApplication.csproj.GenerateResource.Cache
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup2\CalendarApplication\bin\Debug\CalendarApplication.exe.config
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup2\CalendarApplication\obj\Debug\CalendarApplication.exe
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup2\CalendarApplication\obj\Debug\CalendarApplication.pdb
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup2\CalendarApplication\bin\Debug\CalendarApplication.exe
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup2\CalendarApplication\bin\Debug\CalendarApplication.pdb
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup2\CalendarApplication\obj\Debug\CalendarApplication.csprojResolveAssemblyReference.cache
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup2\CalendarApplication\obj\Debug\Calendar.AddAppointment.resources
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup2\CalendarApplication\obj\Debug\Calendar.AddRecurringAppointment.resources
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup2\CalendarApplication\obj\Debug\Calendar.MainForm.resources
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup2\CalendarApplication\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\ZHI QIN\Desktop\Calendar_StartingSolution_Backup2\CalendarApplication\obj\Debug\CalendarApplication.csproj.GenerateResource.Cache
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolutionTest\CalendarApplication\bin\Debug\CalendarApplication.exe.config
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolutionTest\CalendarApplication\bin\Debug\CalendarApplication.exe
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolutionTest\CalendarApplication\bin\Debug\CalendarApplication.pdb
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\Calendar.AddAppointment.resources
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\Calendar.AddRecurringAppointment.resources
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\Calendar.MainForm.resources
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\Calendar.Properties.Resources.resources
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\CalendarApplication.csproj.GenerateResource.Cache
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\CalendarApplication.exe
+\\ctstudent2\studentusers\100422443\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\CalendarApplication.pdb
+C:\Users\ZHI QIN\Downloads\Calendar_StartingSolutionTest\CalendarApplication\bin\Debug\CalendarApplication.exe.config
+C:\Users\ZHI QIN\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\CalendarApplication.exe
+C:\Users\ZHI QIN\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\CalendarApplication.pdb
+C:\Users\ZHI QIN\Downloads\Calendar_StartingSolutionTest\CalendarApplication\bin\Debug\CalendarApplication.exe
+C:\Users\ZHI QIN\Downloads\Calendar_StartingSolutionTest\CalendarApplication\bin\Debug\CalendarApplication.pdb
+C:\Users\ZHI QIN\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\CalendarApplication.csprojResolveAssemblyReference.cache
+C:\Users\ZHI QIN\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\Calendar.AddAppointment.resources
+C:\Users\ZHI QIN\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\Calendar.AddRecurringAppointment.resources
+C:\Users\ZHI QIN\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\Calendar.MainForm.resources
+C:\Users\ZHI QIN\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\ZHI QIN\Downloads\Calendar_StartingSolutionTest\CalendarApplication\obj\Debug\CalendarApplication.csproj.GenerateResource.Cache
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution_Final\CalendarApplication\bin\Debug\CalendarApplication.exe.config
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution_Final\CalendarApplication\obj\Debug\CalendarApplication.exe
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution_Final\CalendarApplication\obj\Debug\CalendarApplication.pdb
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution_Final\CalendarApplication\bin\Debug\CalendarApplication.exe
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution_Final\CalendarApplication\bin\Debug\CalendarApplication.pdb
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution_Final\CalendarApplication\obj\Debug\CalendarApplication.csprojResolveAssemblyReference.cache
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution_Final\CalendarApplication\obj\Debug\Calendar.AddAppointment.resources
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution_Final\CalendarApplication\obj\Debug\Calendar.AddRecurringAppointment.resources
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution_Final\CalendarApplication\obj\Debug\Calendar.MainForm.resources
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution_Final\CalendarApplication\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\ZHI QIN\Desktop\ProgrammingII\Calendar_StartingSolution_Final\CalendarApplication\obj\Debug\CalendarApplication.csproj.GenerateResource.Cache
+C:\Users\Forge-15R\Downloads\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.exe.config
+C:\Users\Forge-15R\Downloads\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.exe
+C:\Users\Forge-15R\Downloads\Calendar_StartingSolution\CalendarApplication\bin\Debug\CalendarApplication.pdb
+C:\Users\Forge-15R\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.csprojAssemblyReference.cache
+C:\Users\Forge-15R\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.AddAppointment.resources
+C:\Users\Forge-15R\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.AddRecurringAppointment.resources
+C:\Users\Forge-15R\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.MainForm.resources
+C:\Users\Forge-15R\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\Forge-15R\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.csproj.GenerateResource.cache
+C:\Users\Forge-15R\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.csproj.CoreCompileInputs.cache
+C:\Users\Forge-15R\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.exe
+C:\Users\Forge-15R\Downloads\Calendar_StartingSolution\CalendarApplication\obj\Debug\CalendarApplication.pdb
